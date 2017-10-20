@@ -25,7 +25,7 @@ var S = {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
       //S.UI.simulate('Shape|Shifter|Type|to start|#rectangle|#countdown 3||');
-      S.UI.simulate('小|欣|欣|想|你|了|~|❤|');
+      S.UI.simulate('小|可|爱|想|你|了|~|❤|');
     }
 
     S.Drawing.loop(function () {
